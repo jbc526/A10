@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    background-color: white;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  h1 {
+    color: black;
+  }
+  
+  .cookie-container {
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkblue;
+  }
+  
+  footer{
+    font-family: Arial;
+    font-style: italic;
+    font-size: small;
+  }
